@@ -1,3 +1,6 @@
 {
-    "PORT": 8080
+    "PORT": 8080,
+    "database": "popcorn-220906",
+    "apiKey": "3f760ae3aa4abe86c51cfe3814a9b760",
+    "adminKey": "1cbe0ae3aa4376576fba86814a3fce90"
 }

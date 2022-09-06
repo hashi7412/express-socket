@@ -1,3 +1,5 @@
+declare module "react-use-websocket"
+
 declare interface AuthObject {
     uid:                string
     email:              string
