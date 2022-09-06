@@ -1,0 +1,5 @@
+{
+    "appKey":               "express-test 0.1.0",
+    "apiServer":            "ws://localhost:15001/api",
+    "apiKey":               "1cbe0ae3aa4376576fba86814a3fce90"
+}
